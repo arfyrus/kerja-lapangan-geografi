@@ -1,14 +1,23 @@
-# Soal Selidik
+# BORANG SOAL SELIDIK KAJIAN GEOGRAFI TEMPATAN 2022 SMK DAMANSARA UTAMA, PETALING JAYA
 
-Nama: ___
+Tajuk: **Isu Pengangkutan Awam di Ara Damansara**
 
-Umur:
+## BAHAGIAN A: BIODATA RESPONDEN
 
-- [ ] 13 hingga 23 tahun
-- [ ] 24 hingga 50 tahun
-- [ ] 51 hingga 60 tahun
+1. Nama: ___
 
-## Tempat Kajian dijalankan: **Kayu Ara**
+2. Umur:
+
+    - [ ] 13 hingga 23 tahun
+    - [ ] 24 hingga 50 tahun
+    - [ ] 51 hingga 60 tahun
+
+3. Tempoh menetap di Kayu Ara:
+    - [ ] < 5 tahun
+    - [ ] 5 - 10 tahun
+    - [ ] > 10 tahun
+
+## BAHAGIAN B: SOALAN
 
 ### Sila tanda ( / ) pada jawapan yang berkenaan. Anda boleh pilih lebih daripada satu
 
