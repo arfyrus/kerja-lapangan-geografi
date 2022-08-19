@@ -1,6 +1,6 @@
 # Soal Selidik
 
-Nama: ___
+Nama: 
 
 Umur:
 
