@@ -8,6 +8,7 @@
 |      | Pengumpulan maklumat |        |
 |      | - Soal selidik       |        |
 
-* Senarai Semak [0/2]
+## Senarai Semak
+
 - [ ] Kulit - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
 - [ ] Jadual kerja
