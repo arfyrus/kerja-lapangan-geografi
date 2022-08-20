@@ -1,6 +1,6 @@
 # BORANG SOAL SELIDIK KAJIAN GEOGRAFI TEMPATAN 2022 SMK DAMANSARA UTAMA, PETALING JAYA
 
-Tajuk: **Isu Pengangkutan Awam di Ara Damansara**
+Tajuk: **Isu Pengangkutan Awam di Kayu Ara**
 
 ## BAHAGIAN A: BIODATA RESPONDEN
 
@@ -25,6 +25,6 @@ Tajuk: **Isu Pengangkutan Awam di Ara Damansara**
 
 1. [ ] Pencemaran bunyi
 2. [ ] Pencemaran udara
-3. [ ] Pengangkutan awam tidak boleh di akses
-4. [ ] Jalan tidak dikekalkan
-5. [ ] Sering berlaku kesesakan lalu lintas
+3. [ ] Kekurangan kemudahan pengangkutan awam
+4. [ ] Kekurangan penyelenggaraan jalan raya
+5. [ ] Lain:
