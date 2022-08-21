@@ -2,12 +2,12 @@
 
 ## Senarai Semak
 
-1. [ ] Kulit - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
-2. [ ] Jadual kerja
+1. [ ] [Kulit](#kulit) - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
+2. [ ] [Jadual kerja](#jadual-kerja)
 3. [x] [Penghargaan](#penghargaan)
 4. [ ] [Pendahuluan](#pendahuluan)
 5. [x] [Objektif kajian](#objektif-kajian) (2)
-6. [ ] [Kaedah kajian](#kaedah-kajian) (3)
+6. [x] [Kaedah kajian](#kaedah-kajian) (3)
 7. [ ] [Borang data mentah](#data-mentah)
 8. [ ] [Jadual berdasarkan data mentah](#jadual-data)
 9. [ ] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
@@ -17,25 +17,40 @@
 
 ## Items
 
+### Kulit
+
+> **Masalah Pengangkutan Awam dan Langkah Mengatasi**
+>
+> **Ahli:**
+>
+> - Cheah Xin Ying
+> - Muhammad Arif
+> - Muhammad Nasar
+> - Wong Ching Yan
+>
+> **Tingkatan** : 2 Cempaka\
+> **Guru** : Cikgu Athirah\
+> **Tarikh Penghantaran** : ??/0?/2022
+
 ### Jadual Kerja
 
-| Bil. | Perkara                                | Tarikh |
-| ---: | :------------------------------------- | -----: |
-|   1. | Proses awal                            |        |
-|      | - Penghasilan soal selidik             |   20/8 |
-|   2. | Perancangan                            |        |
-|      | - Jadual kerja                         |   20/8 |
-|      | - Penghargaan                          |   21/8 |
-|      | - Objektif kajian                      |   22/8 |
-|      | - Kaedah kajian                        |   23/8 |
-|   3. | Pengumpulan maklumat                   |        |
-|      | - Distribusi soal selidik              |      ? |
-|   4. | Penghuraian Hasil Maklumat             |        |
-|      | - Borang data mentah                   |      ? |
-|      | - Jadual berdasarkan data mentah       |      ? |
-|   5. | Konklusi                               |        |
-|      | - Esei berkenaan isu                   |      ? |
-|      | - Esei berkenaan langkah mengatasi isu |      ? |
+| Bil. | Perkara                                | Tarikh | Murid |
+| ---: | :------------------------------------- | -----: | :---- |
+|   1. | Proses awal                            |        |       |
+|      | - Penghasilan soal selidik             |   20/8 | CXY   |
+|   2. | Perancangan                            |        |       |
+|      | - Jadual kerja                         |   20/8 | Arif  |
+|      | - Penghargaan                          |   21/8 | Arif  |
+|      | - Objektif kajian                      |   22/8 | Arif  |
+|      | - Kaedah kajian                        |   23/8 | Arif  |
+|   3. | Pengumpulan maklumat                   |        |       |
+|      | - Distribusi soal selidik              |      ? | Nasar |
+|   4. | Penghuraian Hasil Maklumat             |        |       |
+|      | - Borang data mentah                   |      ? |       |
+|      | - Jadual berdasarkan data mentah       |      ? |       |
+|   5. | Konklusi                               |        |       |
+|      | - Esei berkenaan isu                   |      ? |       |
+|      | - Esei berkenaan langkah mengatasi isu |      ? |       |
 
 ### Penghargaan
 
