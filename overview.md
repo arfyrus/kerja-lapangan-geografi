@@ -6,7 +6,7 @@
 2. [ ] Jadual kerja[^jake]
 3. [ ] Penghargaan[^phrg]
 4. [ ] Pendahuluan
-5. [ ] Objektif kajian (2) [^objk]
+5. [x] Objektif kajian (2) [^objk]
 6. [ ] Kaedah kajian (3)
 7. [ ] Borang data mentah
 8. [ ] Jadual berdasarkan jadual mentah
