@@ -27,6 +27,8 @@
 |      | - Distribusi soal selidik  |      2 |
 |   3. | Perancangan                |        |
 |      | - Jadual kerja             |      2 |
+|      | - Penghargaan              |      2 |
+|      | - Objektif kajian          |      2 |
 
 ### Penghargaan
 
