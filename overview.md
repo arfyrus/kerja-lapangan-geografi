@@ -2,10 +2,10 @@
 
 ## Senarai Semak
 
-1. [ ] [Kulit](#kulit) - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
+1. [x] [Kulit](#kulit) - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
 2. [ ] [Jadual kerja](#jadual-kerja)
 3. [x] [Penghargaan](#penghargaan)
-4. [ ] [Pendahuluan](#pendahuluan)
+4. [x] [Pendahuluan](#pendahuluan)
 5. [x] [Objektif kajian](#objektif-kajian) (2)
 6. [x] [Kaedah kajian](#kaedah-kajian) (3)
 7. [ ] [Borang data mentah](#data-mentah)
@@ -18,6 +18,8 @@
 ## Items
 
 ### Kulit
+
+> :warning: **TODO:** Add date before submitting.
 
     Masalah Pengangkutan Awam dan Langkah Mengatasinya
 
@@ -53,30 +55,31 @@
 
 ### Penghargaan
 
+> :warning: **TODO:** Finish last paragraph with 2 respondents after receiving test data.
+
 Terima kasih kepada guru kami, Cikgu Athirah untuk memberi perluangan untuk membuat projek ini.
 
 Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nascar Cheeseman yang mengedarkan borang soal selidik.
 
-Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya ...
+Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya (...)
 
 ### Pendahuluan
 
-> Hey
+Menurut *Wikipedia*, sistem pengangkutan bermaksud kenderaan yang membawa seseorang atau sesuatu dan satu tempat ke satu tempat yang lain, biasanya pada jarak yang jauh berbanding jika berjalan kaki. Sistem pengangkutan biasanya boleh dibahagi kepada beberapa pembahagian bergantung kepada cara ia bergerak, kuasa dan lain-lain.
+
+Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara yang dikeluarkan oleh kereta. Pencemaran ini menimbul pelbagai masalah lain seperti sesak nafas dan pemanasan global. Penggunaan pengangkutan awam dapat mengurangkan pencemaran udara yang terlaku.
 
 ### Objektif kajian
-
-> **Given by book:**
->
-> Menyenaraikan dan menghuraikan isu/masalah pengangkutan di Kayu Ara.\
-> Mencadangkan langkah mengatasi isu/masalah yang dinyatakan.
 
 1. Objektif kajian ini ialah untuk menyenaraikan dan menghuraikan isu/masalah pengangkutan di Kayu Ara.
 2. Kajian ini dapat mencadangkan langkah mengatasi isu/masalah tersebut.
 
 ### Kaedah Kajian
 
-1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak (**TODO**, number) borang soal selidik.
-2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 4 masalah utama iaitu (**TODO**)
+> :warning: **TODO:** Fill areas after receiving test results.
+
+1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak (...) borang soal selidik.
+2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 4 masalah utama iaitu (...)
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
 ### Data mentah
