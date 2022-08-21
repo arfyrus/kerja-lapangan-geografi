@@ -19,18 +19,17 @@
 
 ### Kulit
 
-> **Masalah Pengangkutan Awam dan Langkah Mengatasi**
->
-> **Ahli:**
->
-> - Cheah Xin Ying
-> - Muhammad Arif
-> - Muhammad Nasar
-> - Wong Ching Yan
->
-> **Tingkatan** : 2 Cempaka\
-> **Guru** : Cikgu Athirah\
-> **Tarikh Penghantaran** : ??/0?/2022
+    Masalah Pengangkutan Awam dan Langkah Mengatasinya
+
+    Ahli:
+    - Cheah Xin Ying
+    - Muhammad Arif
+    - Muhammad Nasar
+    - Wong Ching Yan
+
+    Tingkatan: 2 Cempaka
+    Guru: Cikgu Athirah
+    Tarikh Penghantaran: ??/0?/2022
 
 ### Jadual Kerja
 
