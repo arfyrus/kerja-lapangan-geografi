@@ -4,31 +4,38 @@
 
 1. [ ] Kulit - Nama Ahli/Kelas/Tajuk/Nama Guru/Markah
 2. [ ] Jadual kerja
-3. [x] Penghargaan
-4. [ ] Pendahuluan
-5. [x] Objektif kajian (2)
-6. [ ] Kaedah kajian (3)
-7. [ ] Borang data mentah
-8. [ ] Jadual berdasarkan jadual mentah
-9. [ ] Esei berkenaan dengan 3 Isu + 1 gambar
-10. [ ] Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara
-11. [ ] Penutup
-12. [ ] Lampiran - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
+3. [x] [Penghargaan](#penghargaan)
+4. [ ] [Pendahuluan](#pendahuluan)
+5. [x] [Objektif kajian](#objektif-kajian) (2)
+6. [ ] [Kaedah kajian](#kaedah-kajian) (3)
+7. [ ] [Borang data mentah](#data-mentah)
+8. [ ] [Jadual berdasarkan data mentah](#jadual-data)
+9. [ ] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
+10. [ ] [Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara](#esei-berkenaan-dengan-3-langkah--1-lampiran-contoh-dari-luar-negara)
+11. [ ] [Penutup](#penutup)
+12. [ ] [Lampiran](#lampiran) - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
 
 ## Items
 
 ### Jadual Kerja
 
-| Bil. | Perkara                    | Minggu |
-| ---: | :------------------------- | -----: |
-|   1. | Proses awal                |        |
-|      | - Penghasilan soal selidik |      1 |
-|   2. | Pengumpulan maklumat       |        |
-|      | - Distribusi soal selidik  |      2 |
-|   3. | Perancangan                |        |
-|      | - Jadual kerja             |      2 |
-|      | - Penghargaan              |      2 |
-|      | - Objektif kajian          |      2 |
+| Bil. | Perkara                                | Tarikh |
+| ---: | :------------------------------------- | -----: |
+|   1. | Proses awal                            |        |
+|      | - Penghasilan soal selidik             |   20/8 |
+|   2. | Perancangan                            |        |
+|      | - Jadual kerja                         |   20/8 |
+|      | - Penghargaan                          |   21/8 |
+|      | - Objektif kajian                      |   22/8 |
+|      | - Kaedah kajian                        |   23/8 |
+|   3. | Pengumpulan maklumat                   |        |
+|      | - Distribusi soal selidik              |      ? |
+|   4. | Penghuraian Hasil Maklumat             |        |
+|      | - Borang data mentah                   |      ? |
+|      | - Jadual berdasarkan data mentah       |      ? |
+|   5. | Konklusi                               |        |
+|      | - Esei berkenaan isu                   |      ? |
+|      | - Esei berkenaan langkah mengatasi isu |      ? |
 
 ### Penghargaan
 
@@ -58,9 +65,9 @@ Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka ber
 2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 4 masalah utama iaitu (**TODO**)
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
-### Borang data mentah
+### Data mentah
 
-### Jadual berdasarkan jadual mentah
+### Jadual data
 
 ### Esei berkenaan dengan 3 Isu + 1 gambar
 
