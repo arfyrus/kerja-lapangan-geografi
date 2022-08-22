@@ -79,7 +79,7 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 > :warning: **TODO:** Fill areas after receiving test results.
 
 1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak (...) borang soal selidik.
-2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 4 masalah utama iaitu (...)
+2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu (...)
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
 ### Data mentah
