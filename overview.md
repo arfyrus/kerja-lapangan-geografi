@@ -93,3 +93,5 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 ### Penutup
 
 ### Lampiran
+
+https://ms.wikipedia.org/wiki/Pengangkutan
