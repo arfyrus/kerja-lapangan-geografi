@@ -45,13 +45,13 @@
 |      | - Objektif kajian                      |   22/8 | Arif  |
 |      | - Kaedah kajian                        |   23/8 | Arif  |
 |   3. | Pengumpulan maklumat                   |        |       |
-|      | - Distribusi soal selidik              |      ? | Nasar |
+|      | - Distribusi soal selidik              |   25/8 | Nasar |
 |   4. | Penghuraian Hasil Maklumat             |        |       |
 |      | - Borang data mentah                   |      ? |       |
 |      | - Jadual berdasarkan data mentah       |      ? |       |
 |   5. | Konklusi                               |        |       |
-|      | - Esei berkenaan isu                   |      ? |       |
-|      | - Esei berkenaan langkah mengatasi isu |      ? |       |
+|      | - Esei berkenaan isu                   |   27/8 | Nasar |
+|      | - Esei berkenaan langkah mengatasi isu |      ? | WCY   |
 
 ### Penghargaan
 
@@ -87,6 +87,9 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 ### Jadual data
 
 ### Esei berkenaan dengan 3 Isu + 1 gambar
+
+Kami telah membahagikan masalah pengangkutan di kayu ara kepada beberapa isu yang lebih kecil tetapi main peranan dalam masalah pengangkutan.\
+Antara isu pengangkutan yang responden telah menghadapi di kayu ara ialah kesesakan lalu lintas. Banyak responden telah menghadapi isu ini mungkin kerana tidak cukup jalan raya. Banyak responden telah menghadapi dengan isu pencemaran bunyi mungkin kerana orang ramai memilih kenderaan sebagai yang lebih bising bebanding dengan menjalan. Beberapa responden mengalami pencemaran udara. Isu ini mungkin disebabkan banyak kegunaan kenderaan  yang mengeluarkan banyak ekzos berbanding dengan kenderaan yang lebih mesra alam atau menjalan. Perjumpaan orang dengan sikap pandu laju tidak jarang dihadapi oleh responden. Ini mungkin kerana kekurangan polis di kawasan itu.
 
 ### Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara
 
