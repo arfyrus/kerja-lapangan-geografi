@@ -8,12 +8,12 @@
 4. [x] [Pendahuluan](#pendahuluan)
 5. [x] [Objektif kajian](#objektif-kajian) (2)
 6. [x] [Kaedah kajian](#kaedah-kajian) (3)
-7. [ ] [Borang data mentah](#data-mentah)
-8. [ ] [Jadual berdasarkan data mentah](#jadual-data)
-9. [ ] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
+7. [x] [Borang data mentah](#data-mentah)
+8. [x] [Jadual berdasarkan data mentah](#jadual-data)
+9. [x] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
 10. [ ] [Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara](#esei-berkenaan-dengan-3-langkah--1-lampiran-contoh-dari-luar-negara)
 11. [ ] [Penutup](#penutup)
-12. [ ] [Lampiran](#lampiran) - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
+12. [x] [Lampiran](#lampiran) - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
 
 ## Items
 
@@ -52,16 +52,15 @@
 |   5. | Konklusi                               |        |       |
 |      | - Esei berkenaan isu                   |   27/8 | Nasar |
 |      | - Esei berkenaan langkah mengatasi isu |      ? | WCY   |
+|      | - Penutup                              |      ? | CXY   |
 
 ### Penghargaan
-
-> :warning: **TODO:** Finish last paragraph with 2 respondents after receiving test data.
 
 Terima kasih kepada guru kami, Cikgu Athirah untuk memberi perluangan untuk membuat projek ini.
 
 Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nascar Cheeseman yang mengedarkan borang soal selidik.
 
-Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya (...)
+Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya, Arshad yang berumur antara 51 hingga 60: telah memberikan sebanyak 10 jawapan pada selidiknya. Dan juga Rustum bin Ismail yang menjawab selidiknya sambil di dalam masjid.
 
 ### Pendahuluan
 
@@ -78,13 +77,95 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 
 > :warning: **TODO:** Fill areas after receiving test results.
 
-1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak (...) borang soal selidik.
-2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu (...)
+1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak 14 borang soal selidik.
+2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu jalan raya berlubang-lubang,
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
 ### Data mentah
 
+#### Bahagian A
+
+##### Umur
+
+| Soalan  | Bilangan jawapan |
+| :------ | ---------------: |
+| 13 - 23 |                3 |
+| 24 - 50 |                8 |
+| 51 - 60 |                3 |
+
+##### Tempoh Penetapan
+
+| Soalan        | Bilangan jawapan |
+| :------------ | ---------------: |
+| < 5 tahun     |                1 |
+| 5 - 10 tahun  |                0 |
+| > 10 tahun    |                6 |
+| Tiada Jawapan |                7 |
+
+#### Bahagian B
+
+1. Soalan 1
+
+    | No. Soalan | Bilangan Jawapan |
+    | ---------: | ---------------: |
+    |         1. |                8 |
+    |         2. |               10 |
+    |         3. |                0 |
+    |         4. |                1 |
+    |         5. |                0 |
+    |         6. |                0 |
+    |         7. |                0 |
+    |         8. |                1 |
+
+    **Contoh jawapan Soalan 8**: Jalan kaki
+
+2. Soalan 2
+
+   | No. Soalan | Bilangan jawapan |
+   | ---------: | ---------------: |
+   |         1. |                4 |
+   |         2. |                9 |
+   |         3. |                6 |
+   |         4. |                1 |
+   |         5. |                1 |
+   |         6. |                8 |
+   |         7. |                0 |
+   |         8. |                2 |
+   |         9. |                0 |
+
+3. Soalan 3
+
+    | No. Soalan | Bilangan jawapan |
+    | ---------: | ---------------: |
+    |         1. |                2 |
+    |         2. |                9 |
+    |         3. |               11 |
+    |         4. |                4 |
+    |         5. |                0 |
+    |         6. |                0 |
+
+4. Soalan 4
+
+    | No. Soalan | Bilangan jawapan |
+    | ---------: | ---------------: |
+    |         1. |                8 |
+    |         2. |                7 |
+    |         3. |                0 |
+    |         4. |                1 |
+    |         5. |                4 |
+    |         6. |                7 |
+    |         7. |                0 |
+
 ### Jadual data
+
+Jawapan paling kerap daripada setiap soalan
+
+| Bil. | Soalan                                            | Jawapan                          | Bilangan |
+| ---: | :------------------------------------------------ | :------------------------------- | -------: |
+|   1. | Jenis pengangkutan yang anda gunakan              | Motosikal                        |       10 |
+|   2. | Masalah pengangkuatn di kawasan anda              | Kesesakan lalu lintas            |        9 |
+|   3. | Keadaan Jalan raya tempat tinggal anda            | Jalan raya yang berlubang-lubang |       11 |
+|   4. | Cadangan untuk merngurangkan masalah pengangkutan | Menguatkuasakan undang-undang    |        8 |
 
 ### Esei berkenaan dengan 3 Isu + 1 gambar
 
