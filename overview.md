@@ -11,7 +11,7 @@
 7. [x] [Borang data mentah](#data-mentah)
 8. [x] [Jadual berdasarkan data mentah](#jadual-data)
 9. [x] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
-10. [ ] [Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara](#esei-berkenaan-dengan-3-langkah--1-lampiran-contoh-dari-luar-negara)
+10. [x] [Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara](#esei-berkenaan-dengan-3-langkah--1-lampiran-contoh-dari-luar-negara)
 11. [ ] [Penutup](#penutup)
 12. [x] [Lampiran](#lampiran) - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
 
@@ -51,7 +51,7 @@
 |      | - Jadual berdasarkan data mentah       |      ? |       |
 |   5. | Konklusi                               |        |       |
 |      | - Esei berkenaan isu                   |   27/8 | Nasar |
-|      | - Esei berkenaan langkah mengatasi isu |      ? | WCY   |
+|      | - Esei berkenaan langkah mengatasi isu |   31/8 | WCY   |
 |      | - Penutup                              |      ? | CXY   |
 
 ### Penghargaan
@@ -64,7 +64,7 @@ Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka ber
 
 ### Pendahuluan
 
-Menurut *Wikipedia*, sistem pengangkutan bermaksud kenderaan yang membawa seseorang atau sesuatu dan satu tempat ke satu tempat yang lain, biasanya pada jarak yang jauh berbanding jika berjalan kaki. Sistem pengangkutan biasanya boleh dibahagi kepada beberapa pembahagian bergantung kepada cara ia bergerak, kuasa dan lain-lain.
+Menurut *Wikipedia*, sistem pengangkutan bermaksud kenderaan yang membawa seseorang atau sesuatu dan satu tempat ke satu tempat yang lain, biasanya pada jarak yang jauh berbanding jika berjalan kaki[^wiki1]. Sistem pengangkutan biasanya boleh dibahagi kepada beberapa pembahagian bergantung kepada cara ia bergerak, kuasa dan lain-lain.
 
 Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara yang dikeluarkan oleh kereta. Pencemaran ini menimbul pelbagai masalah lain seperti sesak nafas dan pemanasan global. Penggunaan pengangkutan awam dapat mengurangkan pencemaran udara yang terlaku.
 
@@ -75,10 +75,8 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 
 ### Kaedah Kajian
 
-> :warning: **TODO:** Fill areas after receiving test results.
-
 1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak 14 borang soal selidik.
-2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu jalan raya berlubang-lubang,
+2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu jalan raya berlubang-lubang, pencemaran udara, dan sikap memandu laju (rempit).
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
 ### Data mentah
@@ -174,8 +172,11 @@ Antara isu pengangkutan yang responden telah menghadapi di kayu ara ialah kesesa
 
 ### Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara
 
+Antara masalah di kayu Ara ialah kesesakan lalu lintas, kita boleh kongsi kereta dengan jiran, keluarga ,kawan dan lain lain untuk kekurangkan kesesakan lalu lintas. Selain itu, masalah pencemaran bunyi. Kita boleh menghadkan kelajuan kenderaan dan menghadkan kenderaan berat. Seterusnya, pencemaran udara. Kita boleh lebih menggunkan pengangkuatan awan seperti MRT atau membeli kereta elektrik. Contohnya, di negara Jepun, sistem MRT-nya adalah yang paling selamat, bersih dan menepati masa yang tertentu.[^japan]
+
 ### Penutup
 
 ### Lampiran
 
-[https://ms.wikipedia.org/wiki/Pengangkutan]
+[^wiki1]: [https://ms.wikipedia.org/wiki/Pengangkutan]
+[^japan]: [https://thelogicalindian.com/technology/japanese-trains-35065]
