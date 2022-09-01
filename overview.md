@@ -36,7 +36,7 @@
 ### Jadual Kerja
 
 | Bil. | Perkara                                | Tarikh | Murid |
-| ---: | :------------------------------------- | -----: | :---- |
+|-----:|:---------------------------------------|-------:|:------|
 |   1. | Proses awal                            |        |       |
 |      | - Penghasilan soal selidik             |   20/8 | CXY   |
 |   2. | Perancangan                            |        |       |
@@ -47,12 +47,13 @@
 |   3. | Pengumpulan maklumat                   |        |       |
 |      | - Distribusi soal selidik              |   25/8 | Nasar |
 |   4. | Penghuraian Hasil Maklumat             |        |       |
-|      | - Borang data mentah                   |      ? |       |
-|      | - Jadual berdasarkan data mentah       |      ? |       |
+|      | - Borang data mentah                   |      ? | Arif  |
+|      | - Jadual berdasarkan data mentah       |      ? | Arif  |
 |   5. | Konklusi                               |        |       |
 |      | - Esei berkenaan isu                   |   27/8 | Nasar |
 |      | - Esei berkenaan langkah mengatasi isu |   31/8 | WCY   |
-|      | - Penutup                              |      ? | CXY   |
+|      | - Penutup                              |      ? | Nasar |
+|      | - Salinan                              |      ? | CXY   |
 
 ### Penghargaan
 
