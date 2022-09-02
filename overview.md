@@ -47,8 +47,8 @@
 |   3. | Pengumpulan maklumat                   |        |       |
 |      | - Distribusi soal selidik              |   25/8 | Nasar |
 |   4. | Penghuraian Hasil Maklumat             |        |       |
-|      | - Borang data mentah                   |      ? | Arif  |
-|      | - Jadual berdasarkan data mentah       |      ? | Arif  |
+|      | - Borang data mentah                   |   26/8 | Arif  |
+|      | - Jadual berdasarkan data mentah       |   26/8 | Arif  |
 |   5. | Konklusi                               |        |       |
 |      | - Esei berkenaan isu                   |   27/8 | Nasar |
 |      | - Esei berkenaan langkah mengatasi isu |   31/8 | WCY   |
