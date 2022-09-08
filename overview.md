@@ -12,7 +12,7 @@
 8. [x] [Jadual berdasarkan data mentah](#jadual-data)
 9. [x] [Esei berkenaan dengan 3 Isu + 1 gambar](#esei-berkenaan-dengan-3-isu--1-gambar)
 10. [x] [Esei berkenaan dengan 3 langkah + 1 lampiran contoh dari luar negara](#esei-berkenaan-dengan-3-langkah--1-lampiran-contoh-dari-luar-negara)
-11. [ ] [Penutup](#penutup)
+11. [x] [Penutup](#penutup)
 12. [x] [Lampiran](#lampiran) - 5 contoh borang soal selidik artikel tambahan/gambar tambahan (jika ada)
 
 ## Items
@@ -52,7 +52,7 @@
 |   5. | Konklusi                               |        |       |
 |      | - Esei berkenaan isu                   |   27/8 | Nasar |
 |      | - Esei berkenaan langkah mengatasi isu |   31/8 | WCY   |
-|      | - Penutup                              |      ? | Nasar |
+|      | - Penutup                              |    5/9 | Nasar |
 |      | - Salinan                              |      ? | CXY   |
 
 ### Penghargaan
@@ -176,6 +176,8 @@ Antara isu pengangkutan yang responden telah menghadapi di kayu ara ialah kesesa
 Antara masalah di kayu Ara ialah kesesakan lalu lintas, kita boleh kongsi kereta dengan jiran, keluarga ,kawan dan lain lain untuk kekurangkan kesesakan lalu lintas. Selain itu, masalah pencemaran bunyi. Kita boleh menghadkan kelajuan kenderaan dan menghadkan kenderaan berat. Seterusnya, pencemaran udara. Kita boleh lebih menggunkan pengangkuatan awan seperti MRT atau membeli kereta elektrik. Contohnya, di negara Jepun, sistem MRT-nya adalah yang paling selamat, bersih dan menepati masa yang tertentu.[^japan]
 
 ### Penutup
+
+Kami telah memerhati bahawa Kayu Ara merupakan beberapa masalah pengangkutan yang amat teruk yang perlu dibaiki supaya penduduk boleh menggunakan pengangkutan dengan mudah dan masalah tersebut boleh dibaiki jika pihak kuasa lebih sedar akan keadaan pengangkutan di Kayu Ara.
 
 ### Lampiran
 
