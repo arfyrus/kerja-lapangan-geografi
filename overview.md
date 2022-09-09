@@ -59,7 +59,7 @@
 
 Terima kasih kepada guru kami, Cikgu Athirah untuk memberi perluangan untuk membuat projek ini.
 
-Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nascar Cheeseman yang mengedarkan borang soal selidik.
+Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nasar yang mengedarkan borang soal selidik.
 
 Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya, Arshad yang berumur antara 51 hingga 60: telah memberikan sebanyak 10 jawapan pada selidiknya. Dan juga Rustum bin Ismail yang menjawab selidiknya sambil di dalam masjid.
 
@@ -77,7 +77,7 @@ Isu yang terutamnya timbul dengan pengangkutan ialah masalah pencemaran udara ya
 ### Kaedah Kajian
 
 1. Kami telah menggunakan kaedah soal selidik dengan mengedarkan borang soal selidik tentang masalah pengangkutan yang terdapat di Kayu Ara kepada penduduk kawasan tersebut. Kami telah mengedarkan sebanyak 14 borang soal selidik.
-2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nascar Cheeseman yang mengedarkan kertas, terdapat 3 masalah utama iaitu jalan raya berlubang-lubang, pencemaran udara, dan sikap memandu laju (rempit).
+2. Kami telah menggunakan kaedah pemerhatian melalui lawatan kawasan Kayu Ara. Berdasarkan pemerhatian Nasar yang mengedarkan kertas, terdapat 3 masalah utama iaitu jalan raya berlubang-lubang, pencemaran udara, dan sikap memandu laju (rempit).
 3. Kami telah menggunakan kaedah rujuakan internet untuk mencari jenis-jenis pengangkutan awam dia luar negara dan contoh cadangan mengatasi masalah-masalah yang timbul.
 
 ### Data mentah
