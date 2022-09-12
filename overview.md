@@ -59,7 +59,7 @@
 
 Terima kasih kepada guru kami, Cikgu Athirah untuk memberi perluangan untuk membuat projek ini.
 
-Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nasar yang mengedarkan borang soal selidik.
+Terima kasih juga kepada ahli kumpulan yang menyumbang kepada projek ini, terutamanya Nasar yang mengedarkan borang soal selidik dan Cheah Xin Ying yang menyalin.
 
 Saya memberi terima kasih kepada responden yang memberi kami pendapat mereka berkenaan dengan isu ini. Contohnya, Arshad yang berumur antara 51 hingga 60: telah memberikan sebanyak 10 jawapan pada selidiknya. Dan juga Rustum bin Ismail yang menjawab selidiknya sambil di dalam masjid.
 
